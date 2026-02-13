@@ -1,4 +1,6 @@
-# Godot Engine
+# WARNING THIS IS NOT VANILLA GODOT
+# THIS IS A GODOT TEMPLATE COMPILATION REPO
+# WITH ZYLANN AND C# INCLUDED AIMED AT ANDROID
 
 <p align="center">
   <a href="https://godotengine.org">
@@ -8,7 +10,10 @@
 
 ## 2D and 3D cross-platform game engine
 
-**[Godot Engine](https://godotengine.org) is a feature-packed, cross-platform
+**[Godot Engine](https://godotengine.org) is a feature-packed Owner avatar
+godot.voxtools.android.template
+Public
+forked from godotengine/godot , cross-platform
 game engine to create 2D and 3D games from a unified interface.** It provides a
 comprehensive set of [common tools](https://godotengine.org/features), so that
 users can focus on making games without having to reinvent the wheel. Games can
